@@ -358,13 +358,13 @@ if __name__ == '__main__':
 # In[2]:
 
 
-get_ipython().system('jupyter nbconvert   --to script  Final_Rahul.ipynb')
+#get_ipython().system('jupyter nbconvert   --to script  Rahul.ipynb')
 
 
 # In[ ]:
 
 
-get_ipython().system('streamlit run Final_Rahul.py')
+#get_ipython().system('streamlit run Final_Rahul.py')
 
 
 # In[ ]:
